@@ -1,4 +1,4 @@
-# 🕒 ECE 2372 FPGA Scoreboard & Shot Clock (Cmod A7-35T)
+# ECE 2372 FPGA Scoreboard & Shot Clock
 
 ---
 
