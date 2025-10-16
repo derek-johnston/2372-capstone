@@ -1,8 +1,5 @@
 # 🕒 ECE 2372 FPGA Scoreboard & Shot Clock (Cmod A7-35T)
 
-**Starter repository for the ECE 2372 capstone project** — an FPGA-based scoreboard and 24-second shot clock built on the **Digilent Cmod A7-35T** platform.  
-This project introduces students to **combinational and sequential logic design**, including counters, finite state machines (FSMs), debouncing, and seven-segment display multiplexing.
-
 ---
 
 ## 🎯 Project Overview
